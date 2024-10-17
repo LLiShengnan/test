@@ -4,6 +4,7 @@
     <HelloWorld msg="Welcome to Your Vue.js App"/>
     <input type="text">
     <p>hhhh</p>
+    <a href="#"></a>
   </div>
 </template>
 
